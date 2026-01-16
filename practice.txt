@@ -1,6 +1,0 @@
-practice.txt git add .
-git commit -m "second commit"
-git push origin main
-git add .
-git commit -m "second commit"
-git push origin main
